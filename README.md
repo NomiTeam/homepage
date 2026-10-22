@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/nomi-logo-256.png" width="160" height="160" alt="糯米小镇团子 Logo">
+  <img src="img/nomi-town-round-badge.png" width="160" height="160" alt="糯米小镇棕色圆框团子徽章">
 </p>
 
 # 糯米小镇 · Nomi Town
